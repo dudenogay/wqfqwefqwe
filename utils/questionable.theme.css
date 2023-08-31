@@ -7,7 +7,8 @@
  * @BDEditor Dark Matter
 */
 
-@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+/*@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');*/
+  @import url('https://raw.githubusercontent.com/scopiwolf/riiiil/main/utils/nig.css')
 
 :root {
   --background-image: url('https://raw.githubusercontent.com/scopiwolf/riiiil/main/utils/PORN.png');
