@@ -18,12 +18,22 @@
  :root {
      --font-primary: 'Comfortaa', cursive;
      --font-display: var(--font-primary) !important;
-     --background-image: url('https://raw.githubusercontent.com/dudenogay/wqfqwefqwe/main/utils/download.remini-enhanced.png');
+     --background-image: url('https://raw.githubusercontent.com/dudenogay/wqfqwefqwe/main/utils/ayaka/peakpixel5.png');
      /*--background-solid: #161921;
      --background-solid-dark: #101218;
      --background-solid-darker: #0c0e12;
      --accent: 37, 172, 232;
      --accent-alt: 29, 101, 134;*/
+     /*--accent: 84,89,136;*/
+     --accent: 0,0,0;
+     /*--accent-alt: 50,53,82;*/
+     --accent-alt: 0,0,0;
+     /*--background-solid: #6a8194;*/
+     --background-solid: #000000;
+     /*--background-solid-dark: #4a5b69;*/
+     --background-solid-dark: #000000;
+     /*--background-solid-darker: #27323b;*/
+     --background-solid-darker: #000001;
      --md-black: 0, 0, 0;
      --dm-white: 255, 255, 255;
      /* BlurpleRecolor */
